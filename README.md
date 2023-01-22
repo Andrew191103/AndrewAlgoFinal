@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1qrMPX1bXynxj5XMjrKju_sBxdLyXhprS/view?usp=share
 
 
 ## Screenshots
-![Menu](menu.png)
+![Menu](Menu.png)
 
 
 ![Starts](starts.png)
