@@ -16,13 +16,13 @@ https://drive.google.com/file/d/1qrMPX1bXynxj5XMjrKju_sBxdLyXhprS/view?usp=share
 
 
 ## Screenshots
-![start](start.png)
+![Menu](menu.png)
 
 
-![gameplay](gameplay.png)
+![Starts](starts.png)
 
 
-![pause](pause.png)
+![Game Over](gameover.png)
 
 
-![won](won.png)
+
