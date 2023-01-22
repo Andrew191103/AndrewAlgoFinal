@@ -332,6 +332,6 @@ while gamerun:
 
     if score > high_score:
         high_score = score
-
+#it is executed while the variable "gamerun" is true. The first thing that happens is that the game's frame rate is set by calling "timer.tick(fps)". Then, the screen is filled with the color 'gray'. The functions "draw_board()" and "draw_pieces(board_values)" are then called to update the display. If the variable "spawn_new" is true or the value of "init_count" is less than 2, the function "new_pieces(board_values)" is called to add new pieces to the game board, and the value of "spawn_new" is set to false, while "init_count" is incremented by 1. If the value of the "direction" variable is not empty, the function "take_turn(direction, board_values)" is called to update the game board based on the current direction. The value of "direction" is then set to an empty string and "spawn_new" is set to true. If the game is over (as determined by the value of the "game_over" variable), the "draw_over()" function is called. Additionally, if the current score is greater than the high score, the high score is updated. Finally, the code checks for any user input events, such as quitting the game or moving the pieces.
     pygame.display.flip()
 pygame.quit()
